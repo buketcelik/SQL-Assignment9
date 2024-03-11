@@ -1,4 +1,4 @@
-# SQL-Assignment9
+# SQL- INNER JOIN
 INNER JOIN
 1.	SELECT city, country FROM city
 INNER JOIN country ON city.country_id = country.country_id ;
